@@ -8,4 +8,4 @@ Both students and library managers benefit from the system, which allows them to
 
 Enabling the system to maintain track of information including the date or borrowing, the date or book return, and even detailed book information eliminates the manual recording of this information and most importantly it reduced the risk of errors.As a result, this method greatly lowers manual effort and allows for a seamless flow of library activities by eliminating the possibility of errors in the details.
 
-
+youtube Link:- https://bit.ly/3ItQkYf
